@@ -1,4 +1,5 @@
 #include <iostream>
+#include "funcs.h"
 using namespace std;
 int main(){
     int a = 0;
@@ -13,7 +14,7 @@ int main(){
 
     switch (operation){
     case '-':
-        cout << "Функция в разработке " '\n';
+        cout << "Функция в разработке " <<'\n';
 
     case '+':
         cout << "Функция в разработке " << '\n';
