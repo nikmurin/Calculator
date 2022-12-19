@@ -24,7 +24,7 @@ int main(){
         cout << "a * b = " << Multiply(a,b) << '\n';
         break;
     case '/':
-        cout << "Функция в разработке " << '\n';
+        cout << "a / b = "<< Division(a,b) << '\n';
         break;
     default:
         cout << "Error\n";
