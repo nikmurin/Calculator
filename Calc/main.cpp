@@ -21,7 +21,7 @@ int main(){
         cout << "a + b = " << Plus(a,b)<< '\n';
         break;
     case '*':
-        cout << "Функция в разработке " << '\n';
+        cout << "a * b = " << Multiply(a,b) << '\n';
         break;
     case '/':
         cout << "Функция в разработке " << '\n';
