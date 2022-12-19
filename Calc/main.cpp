@@ -14,7 +14,8 @@ int main(){
 
     switch (operation){
     case '-':
-        cout << "Функция в разработке " <<'\n';
+        cout <<  "a - b = " << Minus(a,b)<<'\n';
+        break;
 
     case '+':
         cout << "a + b = " << Plus(a,b)<< '\n';
